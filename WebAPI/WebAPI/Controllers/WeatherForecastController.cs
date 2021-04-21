@@ -7,9 +7,7 @@ using System.Threading.Tasks;
 
 namespace WebAPI.Controllers
 {
-    [ApiController]
-    [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class WeatherForecastController : WebApiControllerBase
     {
         private static readonly string[] Summaries = new[]
         {

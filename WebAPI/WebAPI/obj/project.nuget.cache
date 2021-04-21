@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jqWKrZqPMOI1jzvu7B0DaVHG2LhGuhm8V6WNXlx0SRLsTHQzp2AT6zU+vyQbiBuyAaDo2xZ8dHdoNR7ZuLtFZw==",
+  "dgSpecHash": "eMegQVAVXENiSxMpIgzcVNxmQmbMhZLW1OkBclGQp5ZUZLEIW7xuzr2ZFwNniySARBecQMDjobr4601ZCwnFfw==",
   "success": true,
-  "projectFilePath": "S:\\repository\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "S:\\repository\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\seal1226\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\seal1226\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

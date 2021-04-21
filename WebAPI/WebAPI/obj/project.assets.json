@@ -591,11 +591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\repository\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "S:\\repository\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "S:\\repository\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "S:\\repository\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\seal1226\\.nuget\\packages\\",
-      "outputPath": "S:\\repository\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "S:\\repository\\WebAPI\\WebAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\seal1226\\AppData\\Roaming\\NuGet\\NuGet.Config",
